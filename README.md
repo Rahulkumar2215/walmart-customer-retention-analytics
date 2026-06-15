@@ -1,6 +1,19 @@
 # Walmart Customer Retention Analytics — Power BI
 
 An interactive Customer Retention dashboard built in Power BI for Walmart. It consolidates customer demographics, transactions, store/channel data, loyalty program data, and churn labels to analyse why customers churn and identify loyal vs. at-risk customers across regions, channels, and loyalty tiers.
+## Dashboard Preview
+
+### KPI Overview
+![KPI Overview](screenshots/kpi-overview.png)
+
+### Loyalty and Promotion Insights
+![Loyalty and Promotion](screenshots/loyalty-promotion.png)
+
+### Store & Channel Performance
+![Store and Channel](screenshots/store-channel.png)
+
+### Customer Segmentation
+![Customer Segmentation](screenshots/segmentation.png)
 
 ## Tools Used
 
